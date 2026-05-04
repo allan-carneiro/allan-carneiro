@@ -1,12 +1,12 @@
 <h1 align="center">👨‍💻 Allan Douglas</h1>
 
 <p align="center">
-Desenvolvedor Front-end em formação focado em projetos reais 🚀
+Desenvolvedor Front-end em formação, focado em aplicações web modernas e projetos reais 🚀
 </p>
 
 <p align="center">
-  <a href="https://allan-carneiro.github.io/portfolio">
-    <img src="https://img.shields.io/badge/🌐 Portfólio-Visitar-blue?style=for-the-badge">
+  <a href="https://allan-carneiro.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio%20Profissional-Visitar-2563EB?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/allan-douglas-b4233b364/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin">
@@ -18,6 +18,14 @@ Desenvolvedor Front-end em formação focado em projetos reais 🚀
 
 ---
 
+## 🌐 Portfólio Profissional
+
+Acesse meu portfólio com meus principais projetos organizados:
+
+👉 https://allan-carneiro.github.io/portfolio/
+
+---
+
 ## 🚀 Projeto em destaque
 
 ### 🧠 Gestão IPDA – Caxias (SaaS)
@@ -25,14 +33,14 @@ Desenvolvedor Front-end em formação focado em projetos reais 🚀
 Sistema completo para gestão administrativa com autenticação, controle de acesso por níveis e dashboard com dados em tempo real.
 
 🔗 **Acessar Demo:**  
-https://gestao-ipda-caxias.vercel.app/dashboard  
+https://gestao-ipda-caxias.vercel.app/dashboard
 
 🔗 **Ver código:**  
-https://github.com/allan-carneiro/gestao-ipda-caxias  
+https://github.com/allan-carneiro/gestao-ipda-caxias
 
 ---
 
-### ⚙️ Funcionalidades
+## ⚙️ Funcionalidades do SaaS
 
 ✔ Cadastro completo de membros  
 ✔ Controle de presença (Santa Ceia)  
@@ -57,7 +65,7 @@ Atualmente desenvolvo sistemas completos (front-end e back-end), aplicando na pr
 - arquitetura de aplicações web  
 - interfaces responsivas e funcionais  
 
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior) para evoluir tecnicamente e contribuir com projetos reais.
+Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), com o objetivo de evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
@@ -93,10 +101,9 @@ https://allan-carneiro.github.io/portfolio-frontend/
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allan-carneiro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-carneiro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allan-carneiro&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-carneiro&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -104,6 +111,7 @@ https://allan-carneiro.github.io/portfolio-frontend/
 
 📧 Email: a.douglasz088@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/allan-douglas-b4233b364/  
+🌐 Portfólio: https://allan-carneiro.github.io/portfolio/
 
 ---
 
